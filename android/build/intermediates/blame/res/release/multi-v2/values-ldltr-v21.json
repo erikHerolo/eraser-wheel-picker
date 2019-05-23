@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Erik\\Desktop\\Work\\eraser\\node_modules\\react-native-wheel-picker-android\\android\\build\\intermediates\\res\\merged\\release\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\906bc7d39f98cfd32b27003f154275ce\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Erik\\Desktop\\Work\\eraser\\node_modules\\react-native-wheel-picker-android\\android\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Erik\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\906bc7d39f98cfd32b27003f154275ce\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
